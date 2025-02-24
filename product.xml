@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product>
+        <id>1</id>
+        <name>Smartphone</name>
+        <description>A smartphone with amazing features.</description>
+        <price>7,999</price>
+        <stock>20</stock>
+    </product>
+    <product>
+        <id>2</id>
+        <name>Laptop</name>
+        <description>A laptop with powerful performance.</description>
+        <price>30,599</price>
+        <stock>15</stock>
+    </product>
+    <product>
+        <id>3</id>
+        <name>Wireless Earbuds</name>
+        <description>Comfortable and high-quality wireless earbuds.</description>
+        <price>399</price>
+        <stock>50</stock>
+    </product>
+    <product>
+        <id>4</id>
+        <name>Smartwatch</name>
+        <description>Stylish smartwatch with various health tracking features.</description>
+        <price>1950</price>
+        <stock>30</stock>
+    </product>
+</products>
